@@ -3,7 +3,8 @@ pipeline {
   stages {
     stage('werer') {
       steps {
-        echo 'wwe'
+        echo 'wee'
+        sh 'jkgdsjhfak'
       }
     }
   }
